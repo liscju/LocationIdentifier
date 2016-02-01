@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">LocationIdentifier</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Location Identifier</string>
+    <string name="buttonTakePhotoText">Take Photo</string>
 </resources>
